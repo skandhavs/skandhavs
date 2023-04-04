@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 
 [![An image of @skandha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skandha)](https://holopin.io/@skandha)
 
+#### I am V S Skandha , a second year student at Amrita Vishwa Vidyapeetham Chennai. I am pursuing my Bachelors in Computer Science and Engineering.
+#### I am passionate and skilled in Web Development frameworks (HTML, CSS and Javascript). I have a basic foundational experience in frameworks such as React and Django. #### Languages known : C++, Python  
 <!--
 **skandhavs/skandhavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
